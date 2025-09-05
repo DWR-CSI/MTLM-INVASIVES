@@ -1,6 +1,6 @@
 # MTLM-INVASIVES
-##Multitrophic Metabarcoding and Invasive Species Monitoring bioinformatics pipelines
-###Overview
+Multitrophic Metabarcoding and Invasive Species Monitoring bioinformatics pipelines
+## Overview
 This repository was created on 09052025 as template for comparing and organizing metabarcoding bioinformatics pipelines from multiple trophic level data sets.
 
 
